@@ -1,0 +1,6 @@
+{
+  "name": "Rusałka: Wakacyjny Chaos",
+  "description": "Zabawna gra pixel art nad Bałtykiem dla Ośrodka Wypoczynkowego Rusałka w Łazach — łap dmuchańce, unikaj wściekłych mew, zbieraj gofry i odnajduj dzieciaki w sosnowym lesie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
